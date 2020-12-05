@@ -1,14 +1,20 @@
 {
-     firstName: "יעקב",
-     lastName: "ישראלי",
-     address: {
-         streetAddress: "רחוב המשעול, 13",
-         city: "ירושלים",
-         state: "ישראל",
-         postalCode: 10021
-     },
-     phoneNumbers: [
-         "212 555-1234",
-         "646 555-4567"
-     ]
- }
+    "students":[
+        { "name":"ariel stu", "age" : 355},
+        { "name":"ariel stu 1", "age" : 122},
+        { "name":"ariel stu 3", "age" : 151},
+        { "name":"ariel stu 5", "age" : 817}
+    ],
+    "jiraffs":[
+        { "name":"ariel tha jiraff", "age" : 135},
+        { "name":"ariel jiraff 1", "age" : 132},
+        { "name":"ariel jiraff 333", "age" : 159},
+        { "name":"ariel jiraff 335", "age" : 717}
+    ],
+    "startInSky" :[
+        { "StarName" : "earth", "StarWeight": 125.59},
+        { "StarName" : "uranus", "StarWeight": 3125.59},
+        { "StarName" : "pluto", "StarWeight": 5125.59},
+        { "StarName" : "moon", "StarWeight": 25.59}
+    ]
+}
